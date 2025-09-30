@@ -23,7 +23,7 @@ Show alerts using AwesomeDialog if location services are disabled.
 
 Clone the repository:
 
-git clone <https://github.com/your-username/flutter-geolocation-app.git>
+git clone <https://github.com/your-username/flutter-geolocation.git>
 cd flutter-geolocation-app
 
 Install dependencies:
@@ -151,3 +151,4 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
+
